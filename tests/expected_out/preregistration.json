@@ -1,0 +1,22 @@
+{
+  "written_at_utc": "2026-08-05T19:15:03.005823+00:00",
+  "seed": 20261002,
+  "oversample_per_stratum": 10,
+  "target_per_stratum": 15,
+  "cap_total": 30,
+  "stratification": "domain-primary (round-robin over hand-mapped bins, seeded shuffle within bin); acceptance year recorded and reported, not stratified on",
+  "eligibility_filter": ">=2 of six metadata surfaces present, applied after phase0 probe, acceptance in rank order",
+  "dedup_rules": [
+    "R1 corpus overlap -> exclude",
+    "R2 dual-listed -> pyopensci stratum, flagged",
+    "R3 JOSS version papers -> most recent kept",
+    "R4 missing repo URL -> exclude"
+  ],
+  "known_confound": "every JOSS project carries a paper DOI by construction; dual-listed pyOpenSci rows inherit this; comparison presented as illustrative, not inferential",
+  "inputs": {
+    "corpus_sha256": "e08d44603ad77a1f8b124c99115bd388a7cb192019d0bb8f8459374f44e7453f",
+    "joss_frame_sha256": "dba5bdf9db5c36c8e9038f45d87576c0d0a6f17f45ce07a61990da035fa19271",
+    "pyopensci_frame_sha256": "5d5fbf559a957800c16a92655c987ab0cf5d1a510da0a57b530c8fe18b124d30",
+    "domain_map_sha256": "95b14bc56290b1f20bc4167697f11205f2462f1f849ad2ece825ec7586a5c29e"
+  }
+}

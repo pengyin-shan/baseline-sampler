@@ -1,0 +1,97 @@
+keyword,bin
+astro,astronomy
+cosmol,astronomy
+galax,astronomy
+geosci,earth-climate
+geolog,earth-climate
+climat,earth-climate
+ocean,earth-climate
+hydro,earth-climate
+atmospher,earth-climate
+seism,earth-climate
+ecolog,life-sciences
+genom,life-sciences
+bioinformat,life-sciences
+neuro,life-sciences
+biolog,life-sciences
+epidemi,life-sciences
+medic,life-sciences
+chem,chem-materials
+molecul,chem-materials
+material,chem-materials
+crystal,chem-materials
+physic,physics
+quantum,physics
+particle,physics
+fluid,physics
+statistic,math-stats-ml
+bayes,math-stats-ml
+machine learning,math-stats-ml
+deep learning,math-stats-ml
+optimiz,math-stats-ml
+numerical,math-stats-ml
+econom,social-sciences
+psycholog,social-sciences
+sociol,social-sciences
+linguist,social-sciences
+archaeol,social-sciences
+time series,math-stats-ml
+terrain,earth-climate
+geospatial,earth-climate
+elastic wav,physics
+identity-by-descent,life-sciences
+dispersal,life-sciences
+life scien,life-sciences
+gaze,social-sciences
+eye-track,social-sciences
+hyperbolic,math-stats-ml
+robot,engineering
+unmanned,engineering
+path planning,engineering
+fuzzy,math-stats-ml
+terra,earth-climate
+twitter,social-sciences
+social media,social-sciences
+fft,math-stats-ml
+treatment effect,math-stats-ml
+bioprocess,life-sciences
+flight,engineering
+aircraft,engineering
+solar heat,engineering
+water heating,engineering
+differential equation,math-stats-ml
+symbolic,math-stats-ml
+morphometr,life-sciences
+sport,social-sciences
+soccer,social-sciences
+fundus,life-sciences
+retina,life-sciences
+ophthalm,life-sciences
+geodes,earth-climate
+cartograph,earth-climate
+phylogen,life-sciences
+demographic history,life-sciences
+petroleum,engineering
+oil,engineering
+gas well,engineering
+reservoir,engineering
+uncertainty,math-stats-ml
+electromyograph,life-sciences
+image process,general-tools
+data-processing,general-tools
+data-munging,general-tools
+data-extraction,general-tools
+data-retrieval,general-tools
+data-visualization,general-tools
+data-validation,general-tools
+data-deposition,general-tools
+scientific-software-wrapper,general-tools
+workflow,general-tools
+reproducib,general-tools
+database,general-tools
+visualization,general-tools
+education,general-tools
+parser,general-tools
+bibtex,general-tools
+binary data,general-tools
+bitstream,general-tools

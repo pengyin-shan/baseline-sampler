@@ -1,0 +1,6 @@
+rank,stratum,name,repo_url,repo_canonical,accepted_date,accepted_year,domain_bin,dual_listed
+1,joss,AstroA v2,https://github.com/a/astroa,github.com/a/astroa,2025-06-01,2025,astronomy,0
+2,joss,ChemC,https://github.com/c/chemc,github.com/c/chemc,2024-03-05,2024,chem-materials,0
+3,joss,GeoG,https://github.com/g/geog,github.com/g/geog,2022-07-07,2022,earth-climate,0
+4,joss,BioB,https://github.com/b/biob,github.com/b/biob,2022-01-10,2022,life-sciences,0
+5,joss,StatF,https://github.com/f/statf,github.com/f/statf,2023-11-11,2023,math-stats-ml,0

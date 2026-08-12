@@ -1,0 +1,2 @@
+name,repo,repo_canonical,stratum,discipline,ecosystem,source
+spack,spack/spack,github.com/spack/spack,hpc,hpc,frame,sc26_corpus

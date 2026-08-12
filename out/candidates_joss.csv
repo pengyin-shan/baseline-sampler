@@ -1,0 +1,31 @@
+rank,stratum,name,repo_url,repo_canonical,accepted_date,accepted_year,domain_bin,dual_listed
+1,joss,ScatteringOptics.jl: An Interstellar Scattering Framework in the Julia Programming Language,https://github.com/EHTJulia/ScatteringOptics.jl,github.com/ehtjulia/scatteringoptics.jl,2025-01-26,2025,astronomy,0
+2,joss,LCOI: Local crystalline orientation identifier using mask fitting implemented in MATLAB,https://github.com/SnirMeiri/LCOI_local_crystalline_orientation_identifier,github.com/snirmeiri/lcoi_local_crystalline_orientation_identifier,2025-05-23,2025,chem-materials,0
+3,joss,weathercan: Download and format weather data from Environment and Climate Change Canada,https://github.com/ropensci/weathercan,github.com/ropensci/weathercan,2018-02-12,2018,earth-climate,0
+4,joss,DART: Dynamic Animation and Robotics Toolkit,https://github.com/dartsim/dart,github.com/dartsim/dart,2018-02-06,2018,engineering,0
+5,joss,PyVista: 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK),https://github.com/pyvista/pyvista,github.com/pyvista/pyvista,2019-05-19,2019,general-tools,0
+6,joss,BioPsyKit: A Python package for the analysis of biopsychological data,https://github.com/mad-lab-fau/BioPsyKit,github.com/mad-lab-fau/biopsykit,2021-10-12,2021,life-sciences,0
+7,joss,"Condor, a mathematical modeling framework for engineers with deadlines",https://github.com/nasa/condor,github.com/nasa/condor,2025-09-16,2025,math-stats-ml,0
+8,joss,"A GPU-Accelerated Open-Source Python Package for Calculating Powder Diffraction, Small-Angle-, and Total Scattering with the Debye Scattering Equation",https://github.com/FrederikLizakJohansen/DebyeCalculator,github.com/frederiklizakjohansen/debyecalculator,2024-02-20,2024,physics,0
+9,joss,textnets: A Python package for text analysis with networks,https://github.com/jboynyc/textnets,github.com/jboynyc/textnets,2020-10-15,2020,social-sciences,0
+10,joss,daiR: an R package for OCR with Google Document AI,https://github.com/Hegghammer/daiR,github.com/hegghammer/dair,2021-12-21,2021,unmapped,0
+11,joss,AGNI: A radiative-convective model for lava planet atmospheres,https://github.com/nichollsh/AGNI,github.com/nichollsh/agni,2025-05-30,2025,astronomy,0
+12,joss,MDEntropy: Information-Theoretic Analyses for Molecular Dynamics,https://github.com/msmbuilder/mdentropy/,github.com/msmbuilder/mdentropy,2017-11-15,2017,chem-materials,0
+13,joss,geospatialsuite: Comprehensive Geospatiotemporal Analysis and Multimodal Integration Toolkit for R,https://github.com/cwru-sdle/geospatialsuite,github.com/cwru-sdle/geospatialsuite,2026-05-07,2026,earth-climate,0
+14,joss,Boost.Geometry: A Generic C++ Geometry Library,https://github.com/boostorg/geometry,github.com/boostorg/geometry,2026-05-19,2026,engineering,0
+15,joss,Reducing the efforts to create reproducible analysis code with FieldTrip,https://github.com/fieldtrip/fieldtrip,github.com/fieldtrip/fieldtrip,2024-02-21,2024,general-tools,0
+16,joss,genomesizeR: An R package for genome size prediction,https://github.com/ScionResearch/genomesizeR,github.com/scionresearch/genomesizer,2026-01-09,2026,life-sciences,0
+17,joss,ggalluvial: Layered Grammar for Alluvial Plots,https://github.com/corybrunson/ggalluvial,github.com/corybrunson/ggalluvial,2020-05-21,2020,math-stats-ml,0
+18,joss,cblearn: Comparison-based Machine Learning in Python,https://github.com/cblearn/cblearn,github.com/cblearn/cblearn,2024-06-12,2024,physics,0
+19,joss,Archeofrag: an R package for Refitting and Spatial Analysis in Archaeology,https://github.com/sebastien-plutniak/archeofrag,github.com/sebastien-plutniak/archeofrag,2022-07-31,2022,social-sciences,0
+20,joss,SpeechPy - A Library for Speech Processing and Recognition,https://github.com/astorfi/speechpy,github.com/astorfi/speechpy,2018-07-24,2018,unmapped,0
+21,joss,QMix: A Python package for simulating the quasiparticle tunneling currents in SIS junctions,https://github.com/garrettj403/QMix/,github.com/garrettj403/qmix,2019-03-20,2019,astronomy,0
+22,joss,Surfaxe: Systematic surface calculations,https://github.com/SMTG-UCL/surfaxe,github.com/smtg-ucl/surfaxe,2021-05-20,2021,chem-materials,0
+23,joss,eSCAPE: parallel global-scale landscape evolution model,https://github.com/Geodels/eSCAPE/tree/master/joss,github.com/geodels/escape/tree/master/joss,2018-10-09,2018,earth-climate,0
+24,joss,EchoFlow: End-to-end self-supervised sonar-image pipeline,https://github.com/erlingdevold/EchoFlow,github.com/erlingdevold/echoflow,2026-04-21,2026,engineering,0
+25,joss,discourseGT: An R package to analyze discourse networks in educational contexts,https://github.com/q1cui/discourseGT,github.com/q1cui/discoursegt,2023-08-14,2023,general-tools,0
+26,joss,tacmagic: Positron emission tomography analysis in R,https://github.com/ropensci/tacmagic,github.com/ropensci/tacmagic,2019-02-27,2019,life-sciences,0
+27,joss,CVtreeMLE: Efficient Estimation of Mixed Exposures using Data Adaptive Decision Trees and Cross-Validated Targeted Maximum Likelihood Estimation in R,https://github.com/blind-contours/CVtreeMLE,github.com/blind-contours/cvtreemle,2023-02-21,2023,math-stats-ml,0
+28,joss,Calzone: A Geant4 Python wrapper for the simulation of outdoor particle detectors,https://github.com/niess/calzone,github.com/niess/calzone,2025-11-04,2025,physics,0
+29,joss,Psifr: Analysis and visualization of free recall data,https://github.com/mortonne/psifr,github.com/mortonne/psifr,2020-10-15,2020,social-sciences,0
+30,joss,eLabFTW: An open source laboratory notebook for research labs,https://github.com/elabftw/elabftw,github.com/elabftw/elabftw,2017-04-14,2017,unmapped,0

@@ -1,0 +1,10 @@
+name,repo_url,repo_canonical,accepted_date,accepted_year,raw_tags,source_record_url
+AstroA,https://github.com/a/astroa,github.com/a/astroa,2023-04-01,2023,astronomy;photometry,doi:1
+AstroA v2,https://github.com/a/astroa,github.com/a/astroa,2025-06-01,2025,astronomy,doi:1b
+BioB,https://github.com/b/biob,github.com/b/biob,2022-01-10,2022,genomics,doi:2
+ChemC,https://github.com/c/chemc,github.com/c/chemc,2024-03-05,2024,chemistry,doi:3
+DualD,https://github.com/d/duald,github.com/d/duald,2023-09-09,2023,ecology,doi:4
+CorpusE,https://github.com/spack/spack,github.com/spack/spack,2021-02-02,2021,hpc numerical,doi:5
+NoRepo,,,2020-01-01,2020,physics,doi:6
+StatF,https://github.com/f/statf,github.com/f/statf,2023-11-11,2023,bayesian statistics,doi:7
+GeoG,https://github.com/g/geog,github.com/g/geog,2022-07-07,2022,geology,doi:8

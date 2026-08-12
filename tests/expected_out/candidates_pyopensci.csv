@@ -1,0 +1,4 @@
+rank,stratum,name,repo_url,repo_canonical,accepted_date,accepted_year,domain_bin,dual_listed
+1,pyopensci,ClimI,https://github.com/i/climi,github.com/i/climi,2024-08-08,2024,earth-climate,0
+2,pyopensci,NeuroH,https://github.com/h/neuroh,github.com/h/neuroh,2023-05-05,2023,life-sciences,0
+3,pyopensci,DualD,https://github.com/d/duald,github.com/d/duald,2024-01-01,2024,life-sciences,1

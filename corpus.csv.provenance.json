@@ -1,0 +1,10 @@
+{
+  "exported_at_utc": "2026-08-12T17:38:28.512924+00:00",
+  "source_url": "https://raw.githubusercontent.com/pengyin-shan/provenance-audit/v1.0.0/registry/corpus_keep.yaml",
+  "source_tag": "v1.0.0",
+  "source_sha256": "83203d4e57bfaa5033715f7a2995876f6278906b47944057b949178c23499f8e",
+  "zenodo_doi": "10.5281/zenodo.21443211",
+  "n_total": 87,
+  "n_hpc": 44,
+  "n_qc": 43
+}

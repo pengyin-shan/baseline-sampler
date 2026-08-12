@@ -1,0 +1,4 @@
+name,repo_url,repo_canonical,accepted_date,accepted_year,raw_tags,source_record_url
+DualD,https://github.com/d/duald,github.com/d/duald,2024-01-01,2024,ecology,issue:1
+NeuroH,https://github.com/h/neuroh,github.com/h/neuroh,2023-05-05,2023,neuroscience,issue:2
+ClimI,https://github.com/i/climi,github.com/i/climi,2024-08-08,2024,climate,issue:3

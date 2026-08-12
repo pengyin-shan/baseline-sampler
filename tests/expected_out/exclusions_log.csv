@@ -1,0 +1,5 @@
+stratum,name,repo_canonical,rule,note
+joss,AstroA,github.com/a/astroa,R3_version_paper_superseded,superseded by 2025-06-01
+joss,NoRepo,,R4_no_repo,
+joss,DualD,github.com/d/duald,R2_dual_listed_assigned_pyopensci,
+joss,CorpusE,github.com/spack/spack,R1_corpus_overlap,

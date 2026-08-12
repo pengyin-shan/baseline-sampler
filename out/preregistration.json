@@ -1,0 +1,28 @@
+{
+  "written_at_utc": "2026-08-12T21:08:13.937885+00:00",
+  "seed": 202608121338,
+  "oversample_per_stratum": 30,
+  "target_per_stratum": 15,
+  "cap_total": 30,
+  "stratification": "domain-primary (round-robin over hand-mapped bins, seeded shuffle within bin); acceptance year recorded and reported, not stratified on",
+  "eligibility_filter": ">=2 of six metadata surfaces present, applied after phase0 probe, acceptance in rank order",
+  "dedup_rules": [
+    "R1 corpus overlap -> exclude",
+    "R2 dual-listed -> pyopensci stratum, flagged",
+    "R3 JOSS version papers -> most recent kept",
+    "R4 missing repo URL -> exclude",
+    "R5 non-GitHub host -> exclude (all six eligibility surfaces are probed through the GitHub API)"
+  ],
+  "known_confound": "every JOSS project carries a paper DOI by construction; dual-listed pyOpenSci rows inherit this; comparison presented as illustrative, not inferential",
+  "inputs": {
+    "corpus_sha256": "a45e59e364398eaaf952bb34bfc229aa4db5be44821d76e63ec023f43338c83b",
+    "joss_frame_sha256": "f1c1c1a4eccc2d2fd379797ea9b73bb3a285fdfca851e36720ac5107614f2698",
+    "pyopensci_frame_sha256": "7911592b556efa3bc286e9fb97b85fdd5ae16e08e4a6221945415fe90103561d",
+    "domain_map_sha256": "15aeecd74775d8f7dc9a12d8c356ca070863eb58949eb98d53e460d26b613a13"
+  },
+  "domain_binning": "keyword map (domain_map.csv, committed; first match wins, disciplinary keywords precede generic ones). Candidates matching no keyword form an 'unmapped' bin that participates in the stratified draw",
+  "unmapped_share_by_stratum": {
+    "joss": 0.333,
+    "pyopensci": 0.015
+  }
+}
