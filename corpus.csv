@@ -86,3 +86,33 @@ pyzx,zxcalc/pyzx,zxcalc/pyzx,qc,qc,frame,sc26_corpus
 dwave-ocean-sdk,dwavesystems/dwave-ocean-sdk,dwavesystems/dwave-ocean-sdk,qc,qc,frame,sc26_corpus
 qulacs,qulacs/qulacs,qulacs/qulacs,qc,qc,frame,sc26_corpus
 ScaffCC,epiqc/ScaffCC,epiqc/scaffcc,qc,qc,frame,sc26_corpus
+LCOI: Local crystalline orientation identifier using mask fitting implemented in MATLAB,https://github.com/SnirMeiri/LCOI_local_crystalline_orientation_identifier,github.com/snirmeiri/lcoi_local_crystalline_orientation_identifier,joss,chem-materials,baseline,baseline_joss
+weathercan: Download and format weather data from Environment and Climate Change Canada,https://github.com/ropensci/weathercan,github.com/ropensci/weathercan,joss,earth-climate,baseline,baseline_joss
+DART: Dynamic Animation and Robotics Toolkit,https://github.com/dartsim/dart,github.com/dartsim/dart,joss,engineering,baseline,baseline_joss
+PyVista: 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK),https://github.com/pyvista/pyvista,github.com/pyvista/pyvista,joss,general-tools,baseline,baseline_joss
+BioPsyKit: A Python package for the analysis of biopsychological data,https://github.com/mad-lab-fau/BioPsyKit,github.com/mad-lab-fau/biopsykit,joss,life-sciences,baseline,baseline_joss
+"A GPU-Accelerated Open-Source Python Package for Calculating Powder Diffraction, Small-Angle-, and Total Scattering with the Debye Scattering Equation",https://github.com/FrederikLizakJohansen/DebyeCalculator,github.com/frederiklizakjohansen/debyecalculator,joss,physics,baseline,baseline_joss
+textnets: A Python package for text analysis with networks,https://github.com/jboynyc/textnets,github.com/jboynyc/textnets,joss,social-sciences,baseline,baseline_joss
+daiR: an R package for OCR with Google Document AI,https://github.com/Hegghammer/daiR,github.com/hegghammer/dair,joss,unmapped,baseline,baseline_joss
+AGNI: A radiative-convective model for lava planet atmospheres,https://github.com/nichollsh/AGNI,github.com/nichollsh/agni,joss,astronomy,baseline,baseline_joss
+MDEntropy: Information-Theoretic Analyses for Molecular Dynamics,https://github.com/msmbuilder/mdentropy/,github.com/msmbuilder/mdentropy,joss,chem-materials,baseline,baseline_joss
+geospatialsuite: Comprehensive Geospatiotemporal Analysis and Multimodal Integration Toolkit for R,https://github.com/cwru-sdle/geospatialsuite,github.com/cwru-sdle/geospatialsuite,joss,earth-climate,baseline,baseline_joss
+Boost.Geometry: A Generic C++ Geometry Library,https://github.com/boostorg/geometry,github.com/boostorg/geometry,joss,engineering,baseline,baseline_joss
+Reducing the efforts to create reproducible analysis code with FieldTrip,https://github.com/fieldtrip/fieldtrip,github.com/fieldtrip/fieldtrip,joss,general-tools,baseline,baseline_joss
+genomesizeR: An R package for genome size prediction,https://github.com/ScionResearch/genomesizeR,github.com/scionresearch/genomesizer,joss,life-sciences,baseline,baseline_joss
+cblearn: Comparison-based Machine Learning in Python,https://github.com/cblearn/cblearn,github.com/cblearn/cblearn,joss,physics,baseline,baseline_joss
+martini,https://github.com/kyleaoman/martini,github.com/kyleaoman/martini,pyopensci,astronomy,baseline,baseline_pyopensci
+ChemInformant,https://github.com/HzaCode/ChemInformant,github.com/hzacode/cheminformant,pyopensci,chem-materials,baseline,baseline_pyopensci
+earthpy,https://github.com/earthlab/earthpy,github.com/earthlab/earthpy,pyopensci,earth-climate,baseline,baseline_pyopensci
+MontePy,https://github.com/idaholab/MontePy,github.com/idaholab/montepy,pyopensci,general-tools,baseline,baseline_pyopensci
+neonutilities,https://github.com/NEONScience/NEON-utilities-python,github.com/neonscience/neon-utilities-python,pyopensci,life-sciences,baseline,baseline_pyopensci
+nsEVDx,https://github.com/Nischalcs50/nsEVDx,github.com/nischalcs50/nsevdx,pyopensci,math-stats-ml,baseline,baseline_pyopensci
+sunpy,https://github.com/sunpy/sunpy,github.com/sunpy/sunpy,pyopensci,physics,baseline,baseline_pyopensci
+Plenoptic,https://github.com/plenoptic-org/plenoptic,github.com/plenoptic-org/plenoptic,pyopensci,unmapped,baseline,baseline_pyopensci
+pyrolite,https://github.com/morganjwilliams/pyrolite,github.com/morganjwilliams/pyrolite,pyopensci,chem-materials,baseline,baseline_pyopensci
+PyGMT,https://github.com/GenericMappingTools/pygmt,github.com/genericmappingtools/pygmt,pyopensci,earth-climate,baseline,baseline_pyopensci
+EOmaps,https://github.com/raphaelquast/EOmaps,github.com/raphaelquast/eomaps,pyopensci,general-tools,baseline,baseline_pyopensci
+xclim,https://github.com/Ouranosinc/xclim,github.com/ouranosinc/xclim,pyopensci,earth-climate,baseline,baseline_pyopensci
+FElupe,https://github.com/adtzlr/felupe,github.com/adtzlr/felupe,pyopensci,general-tools,baseline,baseline_pyopensci
+sourmash,https://github.com/sourmash-bio/sourmash,github.com/sourmash-bio/sourmash,pyopensci,life-sciences,baseline,baseline_pyopensci
+bibat,https://github.com/teddygroves/bibat/,github.com/teddygroves/bibat,pyopensci,math-stats-ml,baseline,baseline_pyopensci

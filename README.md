@@ -19,6 +19,5 @@ python3 -m rda_audit adapt-corpus --sampler-corpus ../baseline-sampler/corpus.cs
 ```
 
 ## Notes
-
-- 202608121338 seed: [corresponding commit# here once available]
+- 202608121338 seed: 64b979e5295f2a9e6ae3ff9ab91bd390bf9b075a
 - R1 repository comparison normalized across corpus and frame canonical forms, corrected 2026-08-12 before registration; the pre-fix draw contained no overlaps.
