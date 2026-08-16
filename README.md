@@ -2,8 +2,6 @@
 
 Implements the pre-registered JOSS/pyOpenSci baseline draw.
 
-Details come later.
-
 ## Env
 ```bash
 export GITHUB_TOKEN=xxx

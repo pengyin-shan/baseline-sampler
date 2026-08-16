@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "baseline-sampler"
+authors:
+  - family-names: Shan
+    given-names: Pengyin
+    orcid: "https://orcid.org/0009-0009-6309-380X"
+license: Apache-2.0
+version: 0.2.3
+date-released: 2026-08-12
+repository-code: "https://github.com/pengyin-shan/baseline-sampler"
