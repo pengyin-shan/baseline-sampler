@@ -7,6 +7,6 @@ authors:
     given-names: Pengyin
     orcid: "https://orcid.org/0009-0009-6309-380X"
 license: Apache-2.0
-version: 0.2.3
+version: 0.1.0
 date-released: 2026-08-12
 repository-code: "https://github.com/pengyin-shan/baseline-sampler"
